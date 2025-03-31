@@ -4,3 +4,5 @@ This site is very comfortable to focus on layous, JS and don't create poor desig
 
 QR: https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H
 This is a simple page with only one QR-code in it. I used Flex Grid to place all things in column. Otherwise, there is no more any hard or special things to explain.
+
+ToDo List: First and primitive app on React. Minimal functionality to keep track of your tasks.
